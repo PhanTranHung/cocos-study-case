@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9d676650-d344-4630-ba8d-5ed809ab50ab",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "particle_texture": {
+      "ver": "1.0.4",
+      "uuid": "6e72c0de-5a20-4e0f-b430-eac6c9057720",
+      "rawTextureUuid": "9d676650-d344-4630-ba8d-5ed809ab50ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 29,
+      "height": 29,
+      "rawWidth": 29,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9d676650-d344-4630-ba8d-5ed809ab50ab@6c48a",
+      "displayName": "particle_texture",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9d676650-d344-4630-ba8d-5ed809ab50ab"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "9d676650-d344-4630-ba8d-5ed809ab50ab@6c48a"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c45b8d82-0cc2-4dab-9d61-11d82bfa8daa",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Ground_Tile": {
+      "ver": "1.0.4",
+      "uuid": "434dd67c-6bd9-48ea-8c17-ebacbf4bb3c0",
+      "rawTextureUuid": "c45b8d82-0cc2-4dab-9d61-11d82bfa8daa",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 32,
+      "height": 32,
+      "rawWidth": 32,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c45b8d82-0cc2-4dab-9d61-11d82bfa8daa@6c48a",
+      "displayName": "Ground_Tile",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c45b8d82-0cc2-4dab-9d61-11d82bfa8daa"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "c45b8d82-0cc2-4dab-9d61-11d82bfa8daa@6c48a"
+  }
+}

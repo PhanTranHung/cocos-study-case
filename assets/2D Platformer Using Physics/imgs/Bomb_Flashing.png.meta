@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a694e720-08e9-4598-8d62-6089a3851ea1",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Bomb_Flashing": {
+      "ver": "1.0.4",
+      "uuid": "947aeb7e-c75c-4c1d-8cc8-0d8e9454709e",
+      "rawTextureUuid": "a694e720-08e9-4598-8d62-6089a3851ea1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 121,
+      "rawWidth": 128,
+      "rawHeight": 121,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "a694e720-08e9-4598-8d62-6089a3851ea1@6c48a",
+      "displayName": "Bomb_Flashing",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a694e720-08e9-4598-8d62-6089a3851ea1"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "a694e720-08e9-4598-8d62-6089a3851ea1@6c48a"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "54b85755-9af9-430a-9a96-fb3b2df5add0",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Forest_Back": {
+      "ver": "1.0.4",
+      "uuid": "d8660f70-6802-4888-b8c5-6b1447acf487",
+      "rawTextureUuid": "54b85755-9af9-430a-9a96-fb3b2df5add0",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "54b85755-9af9-430a-9a96-fb3b2df5add0@6c48a",
+      "displayName": "Forest_Back",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "54b85755-9af9-430a-9a96-fb3b2df5add0"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "54b85755-9af9-430a-9a96-fb3b2df5add0@6c48a"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e9226820-6e16-4d73-8e1b-a6bf13a5c668",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Explosion": {
+      "ver": "1.0.4",
+      "uuid": "76747cfa-4ff7-4a16-977c-9a54fc7209aa",
+      "rawTextureUuid": "e9226820-6e16-4d73-8e1b-a6bf13a5c668",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 261,
+      "height": 351,
+      "rawWidth": 261,
+      "rawHeight": 351,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e9226820-6e16-4d73-8e1b-a6bf13a5c668@6c48a",
+      "displayName": "Explosion",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e9226820-6e16-4d73-8e1b-a6bf13a5c668"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "e9226820-6e16-4d73-8e1b-a6bf13a5c668@6c48a"
+  }
+}
