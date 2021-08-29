@@ -52,7 +52,41 @@
         "isUuid": true,
         "imageUuidOrDatabaseUri": "a694e720-08e9-4598-8d62-6089a3851ea1"
       },
-      "ver": "1.0.20",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "a694e720-08e9-4598-8d62-6089a3851ea1@f9941",
+      "displayName": "Bomb_Flashing",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 128,
+        "height": 121,
+        "rawWidth": 128,
+        "rawHeight": 121,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a694e720-08e9-4598-8d62-6089a3851ea1@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -62,7 +96,7 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "a694e720-08e9-4598-8d62-6089a3851ea1@6c48a"
+    "type": "sprite-frame",
+    "redirect": "a694e720-08e9-4598-8d62-6089a3851ea1@f9941"
   }
 }

@@ -1,0 +1,167 @@
+
+player_armor_hp.png
+size: 1670,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1122, 32
+  size: 213, 254
+  orig: 213, 254
+  offset: 0, 0
+  index: -1
+cloth1
+  rotate: true
+  xy: 1378, 6
+  size: 258, 264
+  orig: 259, 264
+  offset: 0, 0
+  index: -1
+cloth2
+  rotate: false
+  xy: 1436, 276
+  size: 153, 268
+  orig: 153, 268
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: true
+  xy: 476, 4
+  size: 163, 101
+  orig: 164, 103
+  offset: 1, 0
+  index: -1
+diamond
+  rotate: false
+  xy: 388, 94
+  size: 73, 73
+  orig: 75, 75
+  offset: 1, 1
+  index: -1
+ear
+  rotate: true
+  xy: 65, 5
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 987, 199
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 987, 199
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 840, 21
+  size: 280, 175
+  orig: 280, 175
+  offset: 0, 0
+  index: -1
+fazhang
+  rotate: true
+  xy: 317, 169
+  size: 375, 197
+  orig: 375, 197
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 579, 4
+  size: 259, 188
+  orig: 259, 188
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 987, 247
+  size: 297, 277
+  orig: 297, 277
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 373, 2
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 2, 3
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 2, 3
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 2, 71
+  size: 313, 473
+  orig: 313, 473
+  offset: 0, 0
+  index: -1
+hood1
+  rotate: false
+  xy: 791, 198
+  size: 194, 346
+  orig: 194, 346
+  offset: 0, 0
+  index: -1
+hood2
+  rotate: false
+  xy: 1266, 266
+  size: 168, 278
+  orig: 168, 278
+  offset: 0, 0
+  index: -1
+hood3
+  rotate: false
+  xy: 1591, 337
+  size: 77, 207
+  orig: 78, 208
+  offset: 0, 0
+  index: -1
+hoodd
+  rotate: false
+  xy: 516, 194
+  size: 273, 350
+  orig: 273, 350
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 317, 72
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 130, 6
+  size: 63, 90
+  orig: 63, 90
+  offset: 0, 0
+  index: -1
+shadow0
+  rotate: false
+  xy: 222, 7
+  size: 149, 62
+  orig: 149, 62
+  offset: 0, 0
+  index: -1

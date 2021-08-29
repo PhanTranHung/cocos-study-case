@@ -52,7 +52,41 @@
         "isUuid": true,
         "imageUuidOrDatabaseUri": "e9226820-6e16-4d73-8e1b-a6bf13a5c668"
       },
-      "ver": "1.0.20",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "e9226820-6e16-4d73-8e1b-a6bf13a5c668@f9941",
+      "displayName": "Explosion",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 261,
+        "height": 351,
+        "rawWidth": 261,
+        "rawHeight": 351,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e9226820-6e16-4d73-8e1b-a6bf13a5c668@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -62,7 +96,7 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "e9226820-6e16-4d73-8e1b-a6bf13a5c668@6c48a"
+    "type": "sprite-frame",
+    "redirect": "e9226820-6e16-4d73-8e1b-a6bf13a5c668@f9941"
   }
 }

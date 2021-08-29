@@ -1,0 +1,43 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9ba3df7c-7128-46fb-aba7-6944c145475d",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9ba3df7c-7128-46fb-aba7-6944c145475d@6c48a",
+      "displayName": "explosion_praticle",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9ba3df7c-7128-46fb-aba7-6944c145475d"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "compressSettings": {
+      "useCompressTexture": false
+    },
+    "redirect": "9ba3df7c-7128-46fb-aba7-6944c145475d@6c48a"
+  }
+}

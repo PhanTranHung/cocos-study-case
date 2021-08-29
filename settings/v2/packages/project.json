@@ -13,20 +13,39 @@
       {
         "index": 3,
         "name": "CHARACTER"
+      },
+      {
+        "index": 4,
+        "name": "OBJECT"
       }
     ],
     "collisionMatrix": {
       "0": 0,
-      "1": 12,
-      "2": 14,
-      "3": 14
+      "1": 28,
+      "2": 30,
+      "3": 30,
+      "4": 30
+    },
+    "gravity": {
+      "z": 0
     }
   },
   "general": {
     "designResolution": {
-      "width": 1600,
-      "height": 720,
+      "width": 1000,
+      "height": 600,
       "fitWidth": true
     }
-  }
+  },
+  "script": {
+    "loose": true,
+    "allowDeclareFields": true,
+    "useDefineForClassFields": true
+  },
+  "layer": [
+    {
+      "name": "GAME_SCENE",
+      "value": 1
+    }
+  ]
 }

@@ -52,7 +52,41 @@
         "isUuid": true,
         "imageUuidOrDatabaseUri": "df67729e-1e87-4ffe-8d70-4b659131f03a"
       },
-      "ver": "1.0.20",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "df67729e-1e87-4ffe-8d70-4b659131f03a@f9941",
+      "displayName": "Forest_Mid",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 1920,
+        "height": 1080,
+        "rawWidth": 1920,
+        "rawHeight": 1080,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "df67729e-1e87-4ffe-8d70-4b659131f03a@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -62,7 +96,7 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "df67729e-1e87-4ffe-8d70-4b659131f03a@6c48a"
+    "type": "sprite-frame",
+    "redirect": "df67729e-1e87-4ffe-8d70-4b659131f03a@f9941"
   }
 }

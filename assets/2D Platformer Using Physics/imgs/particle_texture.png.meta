@@ -52,7 +52,41 @@
         "isUuid": true,
         "imageUuidOrDatabaseUri": "9d676650-d344-4630-ba8d-5ed809ab50ab"
       },
-      "ver": "1.0.20",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "9d676650-d344-4630-ba8d-5ed809ab50ab@f9941",
+      "displayName": "particle_texture",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 29,
+        "height": 29,
+        "rawWidth": 29,
+        "rawHeight": 29,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9d676650-d344-4630-ba8d-5ed809ab50ab@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -62,7 +96,7 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "9d676650-d344-4630-ba8d-5ed809ab50ab@6c48a"
+    "type": "sprite-frame",
+    "redirect": "9d676650-d344-4630-ba8d-5ed809ab50ab@f9941"
   }
 }
